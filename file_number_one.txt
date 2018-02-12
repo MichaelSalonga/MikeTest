@@ -1,3 +1,4 @@
 Test file with 
 Line number two
 Line number three for sprint1 branch
+another line added directly in master branch
