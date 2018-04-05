@@ -2,3 +2,4 @@ Test file with
 Line number two
 Line number three for sprint1 branch
 another line added directly in master branch
+Just another change right before renaming this file so we can see if it keeps history.
